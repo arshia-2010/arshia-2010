@@ -87,13 +87,13 @@ A safety‑focused system using real‑time eye & head tracking to detect distra
 
 A minimal, framework‑free blogging engine built entirely with vanilla JavaScript.
 
-### 🗄️ **Admin Portal — Full‑Stack **
+### 🗄️ Admin Portal — Full‑Stack 
 
 A clean, fully functional admin dashboard featuring authentication, CRUD operations, dynamic data handling, and a polished dark UI.
 
 ---
 
-## <strong>🌙 Always learning. Always curious. Toujours un peu plus. Note</strong>
+## <strong>🌙 Always learning. Always curious. Toujours un peu plus.</strong>
 
 **Email:** [arshiaghosh.2006@gmail.com](mailto:arshiaghosh.2006@gmail.com)  
 **LinkedIn:** [Arshia](https://www.linkedin.com/in/arshia-ghosh-93421a316/)
