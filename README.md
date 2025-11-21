@@ -32,6 +32,15 @@ When I’m not coding, you’ll probably find me dancing, acting, reading, or go
 
 ## <strong>🚀 Tech Stack</strong>
 
+### <strong>🧩 Core Programming Languages</strong>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="48" />
+  <img src="https://skillicons.dev/icons?i=c" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+</p>
+
 ### <strong>🌐 Frontend</strong>
 
 <p align="center">
@@ -45,14 +54,6 @@ When I’m not coding, you’ll probably find me dancing, acting, reading, or go
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
   <img src="https://skillicons.dev/icons?i=go" height="48" />
-</p>
-
-### <strong>🧩 Core Programming Languages</strong>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="48" />
-  <img src="https://skillicons.dev/icons?i=c" height="48" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="48" />
 </p>
 
 ### <strong>🗄️ Databases</strong>
