@@ -53,7 +53,7 @@ When I’m not coding, you’ll probably find me dancing, acting, reading, or go
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
-  <img src="https://skillicons.dev/icons?i=go" height="48" />
+  <!-- <img src="https://skillicons.dev/icons?i=go" height="48" /> -->
 </p>
 
 ### <strong>🗄️ Databases</strong>
