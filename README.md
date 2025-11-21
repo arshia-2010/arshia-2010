@@ -86,15 +86,9 @@ A safety‑focused system using real‑time eye & head tracking to detect distra
 
 A minimal, framework‑free blogging engine built entirely with vanilla JavaScript.
 
-### 🗄️ **Admin Portal — Full‑Stack (Highlight Project)**
+### 🗄️ **Admin Portal — Full‑Stack **
 
-A clean, fully functional admin dashboard featuring authentication, CRUD operations, dynamic data handling, and a polished dark UI. Your first complete full‑stack workflow.
-
----
-
-## <strong>🌑 Aesthetic</strong>
-
-Dark, minimal, and clean. That's the vibe everywhere — code, UI, everything.
+A clean, fully functional admin dashboard featuring authentication, CRUD operations, dynamic data handling, and a polished dark UI.
 
 ---
 
