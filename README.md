@@ -14,45 +14,91 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌙 Arshia
-Full-Stack · Backend Explorer · DSA in Progress
+<h1 align="center" style="font-size:42px;">🌙 <strong>Arshia</strong></h1>
 
-building things that feel alive · learning things that matter · staying curious
+<h3 align="center"><em>Full‑Stack · Backend Explorer · DSA in Progress</em></h3>
 
-👋 About Me
+<p align="center">building things that feel alive · learning things that matter · staying curious</p>
 
-I’m a full-stack dev who loves clean, dark aesthetics and building things that actually feel good to use.
-Currently juggling backend exploration, DSA, and improving my overall engineering discipline.
+---
 
-When I’m not coding, you’ll probably find me dancing, acting, reading, or going down a random rabbit-hole because curiosity wins.
+## <strong>👋 About Me</strong>
 
-🚀 What I Build
-🔮 Zynapse
+I’m a full‑stack dev who loves clean, dark aesthetics and building things that actually **feel** good to use. Currently juggling backend exploration, DSA, and improving my overall engineering discipline.
 
-A motion-heavy web experience where I experiment with scroll animations, timelines, and fluid UI using GSAP.
+When I’m not coding, you’ll probably find me dancing, acting, reading, or going down some random rabbit‑hole just because my brain got curious.
 
-👁️ AutoFocus
+---
 
-A safety-focused system using real-time eye & head tracking to detect distraction while driving.
+## <strong>🚀 Tech Stack</strong>
 
-📜 BubbleBlog
+### <strong>🌐 Frontend</strong>
 
-A minimal, framework-free blogging engine built entirely using vanilla JavaScript.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" />
+</p>
 
-🗄️ Admin Portal — Full-Stack
+### <strong>🔧 Backend</strong>
 
-A clean, fully functional admin dashboard with authentication, CRUD operations, dynamic data flow, and a polished dark UI.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
+  <img src="https://skillicons.dev/icons?i=go" height="48" />
+</p>
 
-🚀 Tech Stack
-🌐 Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=html" height="48" /> <img src="https://skillicons.dev/icons?i=css" height="48" /> <img src="https://skillicons.dev/icons?i=js" height="48" /> </p>
-🔧 Backend
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs" height="48" /> </p>
-🧩 Core Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=java" height="48" /> <img src="https://skillicons.dev/icons?i=c" height="48" /> <img src="https://skillicons.dev/icons?i=cpp" height="48" /> </p>
-🗄️ Databases
-<p align="left"> <img src="https://skillicons.dev/icons?i=postgres" height="48" /> <img src="https://skillicons.dev/icons?i=supabase" height="48" /> </p>
-⚙️ Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=git" height="48" /> <img src="https://skillicons.dev/icons?i=postman" height="48" /> <img src="https://skillicons.dev/icons?i=vscode" height="48" /> </p>
+### <strong>🧩 Core Programming Languages</strong>
 
-🌙 Always learning. Always curious. Toujours un peu plus.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="48" />
+  <img src="https://skillicons.dev/icons?i=c" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" />
+</p>
+
+### <strong>🗄️ Databases</strong>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="48" />
+</p>
+
+### <strong>⚙️ Tools</strong>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="48" />
+  <img src="https://skillicons.dev/icons?i=postman" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" />
+</p>
+
+---
+
+## <strong>📌 Projects</strong>
+
+### 🔮 Zynapse
+
+A motion‑heavy web experience where you experiment with scroll animations, timelines, and fluid UI using GSAP.
+
+### 👁️ AutoFocus
+
+A safety‑focused system using real‑time eye & head tracking to detect distraction while driving.
+
+### 📜 BubbleBlog
+
+A minimal, framework‑free blogging engine built entirely with vanilla JavaScript.
+
+### 🗄️ **Admin Portal — Full‑Stack (Highlight Project)**
+
+A clean, fully functional admin dashboard featuring authentication, CRUD operations, dynamic data handling, and a polished dark UI. Your first complete full‑stack workflow.
+
+---
+
+## <strong>🌑 Aesthetic</strong>
+
+Dark, minimal, and clean. That's the vibe everywhere — code, UI, everything.
+
+---
+
+## <strong>🌙 Always learning. Always curious. Toujours un peu plus. Note</strong>
+
+**Email:** [arshiaghosh.2006@gmail.com](mailto:arshiaghosh.2006@gmail.com)  
+**LinkedIn:** [Arshia](https://www.linkedin.com/in/arshia-ghosh-93421a316/)
