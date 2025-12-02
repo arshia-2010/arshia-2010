@@ -32,33 +32,39 @@ When I’m not coding, you’ll probably find me dancing, acting, reading, or go
 
 ## <strong>🚀 Tech Stack</strong>
 
-<!-- Row 1 — slightly bigger icons -->
+<!-- Row 1 — core languages (bigger) -->
 <p align="center" style="margin-bottom: 12px;">
-  <img src="https://skillicons.dev/icons?i=js" height="54" />
+  <img src="https://skillicons.dev/icons?i=java" height="54" />
   <img src="https://skillicons.dev/icons?i=python" height="54" />
   <img src="https://skillicons.dev/icons?i=cpp" height="54" />
+  <img src="https://skillicons.dev/icons?i=c" height="54" />
 </p>
 
-<!-- Row 2 — mixed + medium size -->
+<!-- Row 2 — web basics -->
 <p align="center" style="margin-bottom: 12px;">
   <img src="https://skillicons.dev/icons?i=html" height="46" />
   <img src="https://skillicons.dev/icons?i=css" height="46" />
-  <img src="https://skillicons.dev/icons?i=java" height="46" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="46" />
+  <img src="https://skillicons.dev/icons?i=js" height="46" />
 </p>
 
-<!-- Row 3 — tools + small spacing variation -->
+<!-- Row 3 — backend -->
 <p align="center" style="margin-bottom: 12px;">
-  <img src="https://skillicons.dev/icons?i=git" height="44" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=postman" height="44" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
+</p>
+
+<!-- Row 4 — tools -->
+<p align="center" style="margin-bottom: 12px;">
+  <img src="https://skillicons.dev/icons?i=git" height="44" />
+  <img src="https://skillicons.dev/icons?i=postman" height="44" />
   <img src="https://skillicons.dev/icons?i=vscode" height="44" />
 </p>
 
-<!-- Row 4 — databases (smallest row, looks intentional) -->
+<!-- Row 5 — databases -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" />
 </p>
+
 
 
 ## <strong>📌 Projects</strong>
