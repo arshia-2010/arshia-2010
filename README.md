@@ -32,28 +32,43 @@ When I’m not coding, you’ll probably find me dancing, acting, reading, or go
 
 ## 🛠️ Tech Stack
 
+<!-- Row 1 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="42" />
-  <img src="https://skillicons.dev/icons?i=java" height="42" />
-  <img src="https://skillicons.dev/icons?i=c" height="42" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="42" />
-  <img src="https://skillicons.dev/icons?i=js" height="42" />
-  <img src="https://skillicons.dev/icons?i=ts" height="42" />
-  <img src="https://skillicons.dev/icons?i=html" height="42" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" />
-  <img src="https://skillicons.dev/icons?i=react" height="42" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="42" />
-  <img src="https://skillicons.dev/icons?i=express" height="42" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="42" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="42" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="42" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="42" />
-  <img src="https://skillicons.dev/icons?i=git" height="42" />
-  <img src="https://skillicons.dev/icons?i=postman" height="42" />
-  <img src="https://skillicons.dev/icons?i=github" height="42" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="42" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="42" />
+  <img src="https://skillicons.dev/icons?i=python" height="44" />
+  <img src="https://skillicons.dev/icons?i=java" height="44" />
+  <img src="https://skillicons.dev/icons?i=js" height="44" />
+  <img src="https://skillicons.dev/icons?i=ts" height="44" />
+  <img src="https://skillicons.dev/icons?i=c" height="44" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="44" />
+  <img src="https://skillicons.dev/icons?i=html" height="44" />
+  <img src="https://skillicons.dev/icons?i=css" height="44" />
 </p>
+
+<!-- Row 2 -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" height="44" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="44" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="44" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="44" />
+</p>
+
+<!-- Row 3 -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="44" />
+  <img src="https://skillicons.dev/icons?i=express" height="44" />
+  <img src="https://skillicons.dev/icons?i=react" height="44" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="44" />
+</p>
+
+<!-- Row 4 -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="44" />
+  <img src="https://skillicons.dev/icons?i=github" height="44" />
+  <img src="https://skillicons.dev/icons?i=postman" height="44" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="44" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="44" />
+</p>
+
 
 ## <strong>📌 Projects</strong>
 
